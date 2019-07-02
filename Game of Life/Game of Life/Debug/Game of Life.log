@@ -1,0 +1,10 @@
+﻿  JN_FPSLock.cpp
+C:\Users\Joshua\Documents\Game of Life\Game of Life\JN_FPSLock.cpp(22): warning C4244: 'argument': conversion from 'double' to 'Uint32', possible loss of data
+C:\Users\Joshua\Documents\Game of Life\Game of Life\JN_FPSLock.cpp(26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  JN_LifeGame.cpp
+C:\Users\Joshua\Documents\Game of Life\Game of Life\JN_LifeGame.cpp(24): warning C4101: 'timeStepResults': unreferenced local variable
+  JN_Main.cpp
+  JN_SDLRenderer.cpp
+C:\Users\Joshua\Documents\Game of Life\Game of Life\JN_SDLRenderer.cpp(27): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Game of Life.vcxproj -> C:\Users\Joshua\Documents\Game of Life\Debug\Game of Life.exe
